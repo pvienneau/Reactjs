@@ -13,6 +13,7 @@
 ## Flux Design Pattern
 
 [Facebook Flux](https://facebook.github.io/flux/docs/overview.html)
+[Hacker Way: Rethinking Web APp Development at Facebook](https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw)
 
 ## Stateless Functional Components
 
