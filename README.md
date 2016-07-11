@@ -6,6 +6,9 @@
 
 [Egghead.io](https://egghead.io/lessons/react-building-a-react-js-app-notetaker-introduction)
 
+## Flux Design Pattern
+
+[Facebook Flux](https://facebook.github.io/flux/docs/overview.html)
 
 ## Stateless Functional Components
 
