@@ -2,7 +2,7 @@
 
 ## Video Tutorials
 
-[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)
+~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
 
 [Egghead.io](https://egghead.io/lessons/react-building-a-react-js-app-notetaker-introduction)
 
