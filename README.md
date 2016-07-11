@@ -19,3 +19,7 @@
 ## Stateless Functional Components
 
 [Egghead.io - Utilizing Stateless Function Components](https://egghead.io/lessons/react-building-a-react-js-app-utilizing-stateless-function-components?series=build-your-first-react-js-application)
+
+## Redux
+
+[Redux Action Strategies](https://github.com/bradwestfall/CSS-Tricks-React-Series/blob/master/guide-3-redux/docs/action-strategies.md)
