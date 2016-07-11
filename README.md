@@ -4,6 +4,8 @@
 
 ~~[CSS Tricks](https://css-tricks.com/learning-react-router/)~~
 
+[Immutability in Javascript](https://www.sitepoint.com/immutability-javascript/)
+
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
