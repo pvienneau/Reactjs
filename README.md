@@ -1,5 +1,9 @@
 # React Resources
 
+## Overview
+
+~~[CSS Tricks](https://css-tricks.com/learning-react-router/)
+
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
