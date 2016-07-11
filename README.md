@@ -2,7 +2,7 @@
 
 ## Overview
 
-~~[CSS Tricks](https://css-tricks.com/learning-react-router/)
+~~[CSS Tricks](https://css-tricks.com/learning-react-router/)~~
 
 ## Video Tutorials
 
