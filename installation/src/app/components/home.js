@@ -1,6 +1,6 @@
 import React from 'react';
 
-const App = React.createClass({
+const Home = React.createClass({
   render: function() {
     return (
       <h1>Hello World</h1>
@@ -8,4 +8,4 @@ const App = React.createClass({
   }
 });
 
-export default App;
+export default Home
