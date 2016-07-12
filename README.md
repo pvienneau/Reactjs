@@ -24,6 +24,8 @@
 
 ## Redux
 
+[Redux Documentation](http://redux.js.org/)
+
 [Redux Action Strategies](https://github.com/bradwestfall/CSS-Tricks-React-Series/blob/master/guide-3-redux/docs/action-strategies.md)
 
 [Redux-Immutable Git Repo](https://github.com/gajus/redux-immutable)
