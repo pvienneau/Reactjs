@@ -42,7 +42,7 @@
 
 [Auth Flow](https://github.com/reactjs/react-router/tree/master/examples/auth-flow)
 
-[Persistent State of ReactJS Components](http://blog.mgechev.com/2015/03/05/persistent-state-reactjs/)
+~~[Persistent State of ReactJS Components](http://blog.mgechev.com/2015/03/05/persistent-state-reactjs/)~~
 
 ## Mixins
 
