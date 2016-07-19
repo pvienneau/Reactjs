@@ -37,3 +37,7 @@
 [Redux-Immutable Git Repo](https://github.com/gajus/redux-immutable)
 
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
+
+## Authentication
+
+[Auth Flow](https://github.com/reactjs/react-router/tree/master/examples/auth-flow)
