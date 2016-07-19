@@ -8,6 +8,8 @@
 
 [Immutability in Javascript](https://www.sitepoint.com/immutability-javascript/)
 
+[9 Things Every ReactJS Beginner Should Know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
