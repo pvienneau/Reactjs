@@ -10,6 +10,8 @@
 
 [9 Things Every ReactJS Beginner Should Know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 
+[Sound Cloud ReactJS Example](https://github.com/andrewngu/sound-redux)
+
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
