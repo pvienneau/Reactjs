@@ -12,6 +12,8 @@
 
 [Sound Cloud ReactJS Example](https://github.com/andrewngu/sound-redux)
 
+[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)
+
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
