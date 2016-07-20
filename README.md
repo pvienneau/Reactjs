@@ -12,8 +12,6 @@
 
 [Sound Cloud ReactJS Example](https://github.com/andrewngu/sound-redux)
 
-[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)
-
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
@@ -39,6 +37,8 @@
 [Redux-Immutable Git Repo](https://github.com/gajus/redux-immutable)
 
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
+
+[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)
 
 ## Authentication
 
