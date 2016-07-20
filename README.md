@@ -38,7 +38,7 @@
 
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
 
-[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)
+~~[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)~~
 
 ## Authentication
 
