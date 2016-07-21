@@ -49,3 +49,6 @@
 ## Mixins
 
 [ReactJS Documentation](https://facebook.github.io/react/docs/reusable-components.html#mixins)
+
+## SASS Integration
+[Styling React Components in SASS](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
