@@ -51,6 +51,8 @@
 [ReactJS Documentation](https://facebook.github.io/react/docs/reusable-components.html#mixins)
 
 ## Styling in ReactJS
-[Styling React Components in SASS](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
+[Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
 
 [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
+
+[Sass Guideline](http://sass-guidelin.es/)
