@@ -58,3 +58,7 @@
 [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 
 [Sass Guideline](http://sass-guidelin.es/)
+
+## Testing
+
+[Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.26dyzrk10)
