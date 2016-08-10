@@ -72,4 +72,4 @@
 
 ## Best Practices
 
-[React Best Practices](https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack)
+[React Best Practices](https://blog.risingstack.com/react-js-best-practices-for-2016/)
