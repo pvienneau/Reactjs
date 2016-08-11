@@ -61,7 +61,7 @@
 
 ## Test Driven Development (TDD)
 
-[A step by step approach on testing react components using enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)
+~[A step by step approach on testing react components using enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)~
 
 [Full Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#what-you-will-need)
 
