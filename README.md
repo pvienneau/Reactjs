@@ -81,3 +81,5 @@
 ## Best Practices
 
 [React Best Practices](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+
+[React Best Practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.ut8cmxt65)
