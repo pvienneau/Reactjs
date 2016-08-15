@@ -26,7 +26,7 @@
 
 [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw)
 
-[A Cartoon Guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.w73yosb41)
+~~[A Cartoon Guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.w73yosb41)~~
 
 ## Stateless Functional Components
 
@@ -44,7 +44,7 @@
 
 ~~[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)~~
 
-[A Cartoon Guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.by96h0231)
+~~[A Cartoon Guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.by96h0231)~~
 
 ## Authentication
 
