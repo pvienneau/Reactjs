@@ -87,3 +87,7 @@
 [React Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 
 [React Best Practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.ut8cmxt65)
+
+## Isomorphic Applications
+
+[Handcrafting an Isomorphic Redux Application](https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4#.x2gnb1jx9)
