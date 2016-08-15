@@ -88,6 +88,8 @@
 
 [React Best Practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.ut8cmxt65)
 
+[Organizing Redux Application](http://jaysoo.ca/2016/02/28/organizing-redux-application/)
+
 ## Isomorphic Applications
 
 [Handcrafting an Isomorphic Redux Application](https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4#.x2gnb1jx9)
