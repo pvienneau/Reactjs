@@ -46,6 +46,8 @@
 
 ~~[A Cartoon Guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.by96h0231)~~
 
+[Ducks: Redux Reducer Bundles](https://github.com/erikras/ducks-modular-redux)
+
 ## Authentication
 
 [Auth Flow](https://github.com/reactjs/react-router/tree/master/examples/auth-flow)
