@@ -79,6 +79,12 @@
 
 [Jest Performance Testing](https://facebook.github.io/jest/blog/2016/03/11/javascript-unit-testing-performance.html)
 
+## Testing Tools
+
+[Instanbul](https://github.com/gotwarlost/istanbul)
+
+[Coveralls](https://coveralls.io/github/nickmerwin/node-coveralls?branch=master)
+
 ## Middleware
 [Redux Unit Testing](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking#/The_Middleware_Test_5)
 
