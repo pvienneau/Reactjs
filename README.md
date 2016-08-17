@@ -18,6 +18,8 @@
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
 
+[Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
 [Egghead.io](https://egghead.io/lessons/react-building-a-react-js-app-notetaker-introduction)
 
 ## Flux Design Pattern
