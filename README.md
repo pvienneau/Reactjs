@@ -14,6 +14,10 @@
 
 [React Cheat Sheet](http://ricostacruz.com/cheatsheets/react.html)
 
+## ES6 Javascript
+
+~~[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)~~
+
 ## Video Tutorials
 
 ~~[CSS Tricks](https://www.youtube.com/watch?v=LR_Fb2LbnhY&noredirect=1)~~
@@ -43,8 +47,6 @@
 [Redux-Immutable Git Repo](https://github.com/gajus/redux-immutable)
 
 [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
-
-~~[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)~~
 
 ~~[A Cartoon Guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.by96h0231)~~
 
