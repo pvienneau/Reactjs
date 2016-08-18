@@ -26,6 +26,8 @@
 
 [Egghead.io](https://egghead.io/lessons/react-building-a-react-js-app-notetaker-introduction)
 
+[MindSpace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+
 ## Flux Design Pattern
 
 [Facebook Flux](https://facebook.github.io/flux/docs/overview.html)
