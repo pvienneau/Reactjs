@@ -98,7 +98,7 @@
 ## Middleware
 [Redux Unit Testing](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking#/The_Middleware_Test_5)
 
-[Thunk Middleware](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
+~~[Thunk Middleware](http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)~~
 
 ## Best Practices
 
