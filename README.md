@@ -56,6 +56,8 @@
 
 [A comprehensive React-Redux Tutorial](https://spapas.github.io/2016/03/02/react-redux-tutorial/)
 
+[Redux Cheat Sheet](https://slack-files.com/files-pri-safe/T031D499E-F23NRLUNT/egghead-redux-cheat-sheet-3-2-1.pdf?c=1471888831-aa5b07e839fd9fe2c823031ec53d3292ba773f53)
+
 ## Authentication
 
 [Auth Flow](https://github.com/reactjs/react-router/tree/master/examples/auth-flow)
