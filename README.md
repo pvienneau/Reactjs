@@ -16,6 +16,8 @@
 
 [React Cheat Sheet](https://slack-files.com/files-pri-safe/T031D499E-F23NSUK1V/egghead-react-cheat-sheet-0-14-7.pdf?c=1471888971-ca3579a8369463cac60901bf328f9cb8fa3bf7f1)
 
+~~[React from Scratch](http://andrewhfarmer.com/react-from-scratch/)~~
+
 ## ES6 Javascript
 
 ~~[Using Spread Operators](http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html)~~
