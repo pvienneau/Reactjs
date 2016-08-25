@@ -131,3 +131,5 @@
 ## Webpack
 
 [Using Webpack's hot Module reaplcement with React](http://matthewlehner.net/react-hot-module-replacement-with-webpack/)
+
+[What Exactly is Hot Module Replacement in Webpack](http://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack#answer-24587740)
