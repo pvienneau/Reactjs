@@ -127,3 +127,7 @@
 ## React Context
 
 [React Context](https://facebook.github.io/react/docs/context.html)
+
+## Webpack
+
+[Using Webpack's hot Module reaplcement with React](http://matthewlehner.net/react-hot-module-replacement-with-webpack/)
