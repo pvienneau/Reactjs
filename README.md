@@ -97,7 +97,7 @@
 
 [Jest Performance Testing](https://facebook.github.io/jest/blog/2016/03/11/javascript-unit-testing-performance.html)
 
-[Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)
+~~[Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)~~
 
 ## Testing Tools
 
