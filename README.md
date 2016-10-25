@@ -99,6 +99,8 @@
 
 ~~[Testing React Components with Enzyme and Mocha](https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha)~~
 
+[How to Test React Components Using Jest](https://www.sitepoint.com/test-react-components-jest/)
+
 ## Testing Tools
 
 [Instanbul](https://github.com/gotwarlost/istanbul)
