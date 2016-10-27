@@ -64,6 +64,8 @@
 
 ~~[Lystable React/Redux Case Study](https://www.youtube.com/watch?v=zmN0Vhx2Jgg&feature=youtu.be&t=1h3m18s)~~
 
+[Redux Form Material-UI](http://erikras.github.io/redux-form-material-ui/)
+
 ## Authentication
 
 [Auth Flow](https://github.com/reactjs/react-router/tree/master/examples/auth-flow)
